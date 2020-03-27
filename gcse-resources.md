@@ -1,14 +1,15 @@
 ---
-title:  Start Learning
+title:  GCSE Resources
 menus: header
 layout: page
-permalink: /start-learning/
+permalink: /gcse-resources/
 ---
 
 ## Links to GCSE Resources here:
 
+here. 
 
-This guide is for deploying devlopr-jekyll blog using Github Pages, If you want to switch to any other Deployment Providers. We have deployment guides below !
+<!-- This guide is for deploying devlopr-jekyll blog using Github Pages, If you want to switch to any other Deployment Providers. We have deployment guides below ! -->
 
 <!-- Steps to create your blog using devlopr-jekyll:
 
