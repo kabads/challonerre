@@ -1,15 +1,16 @@
 ---
-title:  Get Started
+title:  Start Learning
 menus: header
 layout: page
-permalink: /get-started/
+permalink: /start-learning/
 ---
 
-## Getting Started - How to create your blog using devlopr-jekyll
+## Links to GCSE Resources here:
+
 
 This guide is for deploying devlopr-jekyll blog using Github Pages, If you want to switch to any other Deployment Providers. We have deployment guides below !
 
-Steps to create your blog using devlopr-jekyll:
+<!-- Steps to create your blog using devlopr-jekyll:
 
 >  **Step 1.**  Fork the repo - [click here](https://github.com/sujaykundu777/devlopr-jekyll/fork)
 
@@ -124,6 +125,4 @@ You can use the below Headless CMS services to manage content on your blog seeml
 
 > Congrats ! On your new shining Blog !
 
-You can visit the blog using [http://your-github-username.github.io](http://your-github-username.github.io) (in case of hosting using github pages). The url may vary depending on your Deployment provider.
-
-
+You can visit the blog using [http://your-github-username.github.io](http://your-github-username.github.io) (in case of hosting using github pages). The url may vary depending on your Deployment provider. -->

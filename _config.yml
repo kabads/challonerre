@@ -3,7 +3,7 @@ subtitle: Learn R.E.
 description: >- # this means to ignore newlines until "baseurl:"
   RE taught on the internet
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://challonerre.netlify.com" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
