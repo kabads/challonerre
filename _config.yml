@@ -7,8 +7,8 @@ url: "https://challonerre.netlify.com" # the base hostname & protocol for your s
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
-    - text: Blog
-      url: /blog
+    #- text: Blog
+    #  url: /blog
     - text: Contact Me
       url : /contact
     - text: Start Learning

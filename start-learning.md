@@ -4,6 +4,7 @@ menus: header
 layout: page
 permalink: /start-learning
 ---
+[Homepage](/)
 
 ## Links to Year Group Resources here:
 
