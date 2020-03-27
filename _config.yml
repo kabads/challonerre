@@ -7,14 +7,8 @@ url: "" # the base hostname & protocol for your site, e.g. https://example.githu
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
-    - text: About Me
-      url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact Me
       url : /contact
     - text: Start Learning
@@ -22,11 +16,11 @@ urls:
 
 # Edit these details
 
-author_logo: profile.png
-author: John Doe
-author_bio: Hello, My Name is John Doe. I love to Code and Design. devlopr-jekyll is a theme built for developers.
+# author_logo: profile.png
+author: Mrs Cripps
+author_bio: Teacher of RE
 author_email: "johndoe@gmail.com"
-author_location: India
+author_location: UK
 author_website_url: "http://johndoe.com"
 
 author_work_experiences:
@@ -64,22 +58,22 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  johndoe
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: mrscripps
+# github_username:  johndoe
+# facebook_username: johndoe
+# linkedin_username: johndoe
+# behance_username: johndoe
+# instagram_username: johndoe
+# medium_username: johndoe
+# telegram_username: johndoe
+# dribbble_username: johndoe
+# flickr_username: johndoe
 
 #for comments using disqus
-disqus_shortname: sujay-kundu
+# disqus_shortname: sujay-kundu
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+# wakatime_username: sujaykundu777
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
@@ -93,7 +87,7 @@ highlighter: rouge
 permalink: pretty
 
 # google analytics
-google_analytics: UA-46783401-10
+google_analytics: UA-162009399-1
 
 # Choose what to show ( can be true or false)
 show_author_work_experiences: true
