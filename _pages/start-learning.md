@@ -2,7 +2,7 @@
 title:  Start Learning
 menus: header
 layout: page
-permalink: /start-learning/
+permalink: /start-learning
 ---
 
 ## Links to Year Group Resources here:
