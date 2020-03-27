@@ -7,7 +7,7 @@ permalink: /gcse-resources/
 
 ## Links to GCSE Resources here:
 
-here. 
+[First Topic](/gcse-resources/first-topic/)
 
 <!-- This guide is for deploying devlopr-jekyll blog using Github Pages, If you want to switch to any other Deployment Providers. We have deployment guides below ! -->
 
