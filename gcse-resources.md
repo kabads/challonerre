@@ -6,7 +6,7 @@ permalink: /gcse-resources/
 ---
 
 [Back to Start Learning](/start-learning)
-## Links to GCSE Resources here:
+## GCSE Resources:
 This page lists all the topics for GCSE resources.
 
 * [First Topic](/gcse-resources/first-topic/)
