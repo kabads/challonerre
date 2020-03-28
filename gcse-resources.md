@@ -9,9 +9,10 @@ permalink: /gcse-resources/
 ## GCSE Resources:
 This page lists all the topics for GCSE resources.
 
-* [First Topic](/gcse-resources/first-topic/)
-* [Second Topic](/gcse-resources/second-topic/)
-* [Third Topic](/gcse-resources/third-topic/)
+* <button class="btn btn-dark btn-lg">[Catholic Christianity](/gcse-resources/catholic-christianity/)</button>
+* [Judaism](/gcse-resources/judaism/)
+* [Themes](/gcse-resources/themes/)
+* [Revision resources](/gcse-resources/revision-resources/)
 
 <!-- This guide is for deploying devlopr-jekyll blog using Github Pages, If you want to switch to any other Deployment Providers. We have deployment guides below ! -->
 
