@@ -27,6 +27,18 @@ This is the final unit of the Catholic Christianity section and is the final pie
 
 [Eschatology Revision](https://drive.google.com/file/d/1U1OtieL1zXaqK3xm_ZEYQqWeKlZtAsyM/view?ts=5e7f69e9){:target="_blank"}
 
-This is a playlist of videos that relate to eschatology.
+#### Eschatological Symbols
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/gzuUw_wTGdM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Eschatological Concepts
+<iframe width="854" height="480" src="https://www.youtube.com/embed/J9RXw5HduR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Euthanasia
+<iframe width="854" height="480" src="https://www.youtube.com/embed/L8LKf_G6yr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### End of Life
+<iframe width="854" height="480" src="https://www.youtube.com/embed/8NjoVakJhSk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Life After Death
+<iframe width="854" height="480" src="https://www.youtube.com/embed/qNK6bgQJCiY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
