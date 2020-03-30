@@ -1,4 +1,4 @@
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1691918b-963b-4fbe-a47b-628bc3537ba8/deploy-status)](https://app.netlify.com/sites/challonerre/deploys)
 
 ### devlopr-jekyll - A Jekyll Theme Built for Developers
 
@@ -103,6 +103,3 @@ If you like the project. Don't forget to Star ! Also, It would be great if you c
 ## Licence
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-
-

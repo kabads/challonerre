@@ -6,7 +6,7 @@ permalink: /start-learning
 ---
 [Homepage](/)
 
-## Links to Year Group Resources here:
+## Area of study
 
 <button class="btn btn-dark btn-lg">[GCSE Resources](/gcse-resources)</button>
 
