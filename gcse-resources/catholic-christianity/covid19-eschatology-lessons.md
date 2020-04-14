@@ -4,6 +4,8 @@ menus: header
 layout: page
 permalink: /gcse-resources/catholic-christianity/covid19-eschatology-lessons
 ---
+[Back to Eschatology](/gcse/catholic/eschatology)
+
 ## Covid-19 Eschatology Lessons
 In this section you will find resources to support your study of all things Eschatological (say it out loud, it's got a lovely ring to it!). 
 
