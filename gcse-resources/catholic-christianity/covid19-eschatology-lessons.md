@@ -17,6 +17,6 @@ In this section you will find resources to support your study of all things Esch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HIQdfNQ0bbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The Ascension/ Fr Mike Schmitz video link that you are ask to watch during the video is here:
+The Ascension/ Fr Mike Schmitz video link that you are asked to watch during the video is here:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GnwDDsN6ZfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
