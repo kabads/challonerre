@@ -5,3 +5,7 @@ layout: page
 permalink: /gcse-resources/judaism
 ---
 ## Judaism
+
+This video introduces The Synagogue and prompts your research into their features.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k4-CT077Q90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

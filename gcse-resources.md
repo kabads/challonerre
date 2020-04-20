@@ -10,6 +10,6 @@ permalink: /gcse-resources/
 This page lists all the topics for GCSE resources.
 
 <button class="btn btn-dark btn-lg">[Catholic Christianity](/gcse-resources/catholic-christianity/)</button>
-<!-- <button class="btn btn-dark btn-lg">[Judaism](/gcse-resources/judaism/)</button>
-<button class="btn btn-dark btn-lg">[Themes](/gcse-resources/themes/)</button> -->
+<button class="btn btn-dark btn-lg">[Judaism](/gcse-resources/judaism/)</button>
+<!--<button class="btn btn-dark btn-lg">[Themes](/gcse-resources/themes/)</button> -->
 <button class="btn btn-dark btn-lg">[Revision resources](/gcse-resources/revision-resources/)</button>
