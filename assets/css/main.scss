@@ -36,7 +36,7 @@ html[data-theme="light"] {
     --highlight-color: hsl(0, 0%, 80%);
     --light-border-color: rgb(230, 230, 230);
     --light-text-color: rgb(72, 72, 74);
-    --link-color: rgb(0, 112, 201);
+    --link-color: rgb(0, 0, 0);
     --link-color-visited: hsl(250, 100%, 37%);
     --main-background-color: rgb(255, 255, 255);
     --main-text-color: rgb(51, 51, 51);
@@ -128,6 +128,10 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color: var(--bold-color) !important;
   line-height: 1.1;
+}
+
+.btn-dark {
+  color: white;
 }
 
 a{
@@ -286,6 +290,11 @@ header {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+
+.a {
+   color: white;
+}
+
 
 /* Gallery */
 /* image-gallery */
