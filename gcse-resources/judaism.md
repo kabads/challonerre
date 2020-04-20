@@ -6,6 +6,10 @@ permalink: /gcse-resources/judaism
 ---
 ## Judaism
 
+[Back to GCSE Resources](/gcse-resources/)
+
+
+
 Jesus the teacher - introducing the Parables
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gIqSBho6oVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
