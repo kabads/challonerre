@@ -8,6 +8,6 @@ permalink: /start-learning
 
 ## Area of study
 
-<button class="btn btn-dark btn-lg">[GCSE Resources](/gcse-resources)</button>
+<button class="btn btn-outline-secondary btn-lg">[GCSE Resources](/gcse-resources)</button>
 
 (More resources coming soon.)
