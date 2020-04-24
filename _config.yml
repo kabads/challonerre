@@ -3,9 +3,9 @@ subtitle: Learn R.E.
 description: >- # this means to ignore newlines until "baseurl:"
   RE taught on the internet
 
-url: "https://challonerre.netlify.com" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
-
+# url: "#" # the base hostname & protocol for your site, e.g. https://example.github.io
+# baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "192.168.5.245"
 urls:
     #- text: Blog
     #  url: /blog
@@ -19,9 +19,7 @@ urls:
 # author_logo: profile.png
 author: Mrs Cripps
 author_bio: Teacher of RE
-author_email: "johndoe@gmail.com"
 author_location: UK
-author_website_url: "http://johndoe.com"
 
 
 

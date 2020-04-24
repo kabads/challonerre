@@ -2,8 +2,9 @@
 title: Judaism
 menus: header
 layout: page
-permalink: /gcse-resources/judaism
+permalink: "/gcse-resources/judaism"
 ---
+
 ## Judaism
 
 [Back to GCSE Resources](/gcse-resources/)

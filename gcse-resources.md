@@ -1,8 +1,8 @@
 ---
-title:  GCSE Resources
+title: GCSE Resources
 menus: header
 layout: page
-permalink: /gcse-resources/
+permalink: "/gcse-resources/"
 ---
 
 [Back to Start Learning](/start-learning)
@@ -13,3 +13,5 @@ This page lists all the topics for GCSE resources.
 <button class="btn btn-outline-secondary btn-lg">[Judaism](/gcse-resources/judaism/)</button>
 <!--<button class="btn btn-outline-secondary btn-lg">[Themes](/gcse-resources/themes/)</button> -->
 <button class="btn btn-outline-secondary btn-lg">[Revision resources](/gcse-resources/revision-resources/)</button>
+
+Test
