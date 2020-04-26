@@ -26,7 +26,7 @@ permalink: /gcse-resources/catholic-christianity/eschatology/eschatology-revisio
 #### Life After Death
 <iframe width="854" height="480" src="https://www.youtube.com/embed/qNK6bgQJCiY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Eschatology 6.6 Part II To understand the difference between Particular and Final Judgementa
+### Eschatology 6.6 Part II To understand the difference between Particular and Final Judgement
 The lesser known last judgment/ Ascension presents
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7FMgVbcLagM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
