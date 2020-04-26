@@ -26,3 +26,14 @@ for wider research listen to Scott Hahn suggest that the Rich Man was actually i
 And here is an even more in depth counter-analysis, that suggests that this parable is less about the afterlife and more about the jewish leaders rejection of the messiah: https://www.tentmaker.org/articles/Lazarus-byHuie.htm
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CGXAl_eYhCM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Eschatology 6.6 Part II To understand the difference between Particular and Final Judgementa
+The lesser known last judgment/ Ascension presents
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7FMgVbcLagM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Digging deeper : Please also watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4OTLOKRZwxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Two final judgements – Catholic productions https://mcryr9rec9.wordpress.com for meaning blog.
