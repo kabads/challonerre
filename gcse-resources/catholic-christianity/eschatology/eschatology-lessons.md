@@ -87,7 +87,7 @@ Also you can visit www.juliancentre.org for more info.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kWqWVDJoF1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<a href="6.9-catholic-teachings-in-the-end-of-time"></>"### 6.9 Catholic teachings in the end of time
+<a href="6.9-catholic-teachings-in-the-end-of-time"></a>"### 6.9 Catholic teachings in the end of time
 
 Find out what Vatican II document Lumen Gentium has to teach about preparing for the End Times and the end of your life.
 
