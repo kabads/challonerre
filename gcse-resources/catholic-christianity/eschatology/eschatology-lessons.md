@@ -11,7 +11,7 @@ permalink: /gcse-resources/catholic-christianity/eschatology/eschatology-lessons
 ## Eschatology Lessons
 In this section you will find resources to support your study of all things Eschatological (say it out loud, it's got a lovely ring to it!).
 
-- [6.1 The Pascal Candle](#6.1-the-pascal-candal)
+- [6.1 The Paschal Candle](#6.1-the-pascal-candal)
 - [6.2 Michelangelo's The Last Judgement Painting](#6.2-michaelangelos-the-last-judgement-painting)
 - [6.3 Memorials for the Dead](#6.3-memorials-for-the-dead)
 - [6.4 Eschatology and Life after death](#6.4-eschatology-and-life-after-death)
