@@ -18,6 +18,7 @@ In this section you will find resources to support your study of all things Esch
 - [6.5 The Four Last Things](#6.5-the-four-last-things)
 - [6.6 Purgatory and Judgement part 1](#purgatory-and-judgement-part-1)
 - [6.6 Purgatory and Judgement part 2](#purgatory-and-judgement-part-2)
+- [6.7 Parable of Rich Man and Lazarus](#parable)
 - [6.8 Cosmic Reconciliation Part 1](#6.8-cosmic-reconciliation-part-1)
 - [6.8 Cosmic Reconciliation Part 2](#6.8-cosmic-reconciliation-part-2)
 - [6.9 Catholic teachings in the end of time](#6.9-catholic-teachings-in-the-end-of-time)
@@ -69,6 +70,8 @@ The Ascension/Fr Mike Schmitz video link that you are asked to watch during the 
 To understand the difference between Particular and Final Judgement
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7FMgVbcLagM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### <a name"parable"></a>6.7 Parable of the Rich Man and Lazarus
 
 Watch this lesson to find out what the Parable of the Rich Man and Lazarus (Luke 16: 19-31) tells Christians about the nature of heaven and hell.
 
