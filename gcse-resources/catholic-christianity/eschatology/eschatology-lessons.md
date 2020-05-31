@@ -12,7 +12,7 @@ permalink: /gcse-resources/catholic-christianity/eschatology/eschatology-lessons
 In this section you will find resources to support your study of all things Eschatological (say it out loud, it's got a lovely ring to it!).
 
 - [6.1 The Pascal Candle](#6.1-the-pascal-candal)
-
+- [6.9 Catholic teachings in the end of time](#6.9-catholic-teachings-in-the-end-of-time)
 
 ### 6.1 The Paschal candle
 
