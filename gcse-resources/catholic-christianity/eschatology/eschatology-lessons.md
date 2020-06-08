@@ -22,6 +22,7 @@ In this section you will find resources to support your study of all things Esch
 - [6.8 Cosmic Reconciliation Part 1](#6.8-cosmic-reconciliation-part-1)
 - [6.8 Cosmic Reconciliation Part 2](#6.8-cosmic-reconciliation-part-2)
 - [6.9 Catholic teachings in the end of time](#6.9-catholic-teachings-in-the-end-of-time)
+- [6.10 The Last Rites](#6.10-the-last-rites)
 
 ### <a name = "6.1-the-pascal-candal"></a> 6.1 The Paschal candle
 
@@ -103,3 +104,8 @@ Also you can visit www.juliancentre.org for more info.
 Find out what Vatican II document Lumen Gentium has to teach about preparing for the End Times and the end of your life.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vdp0mVm1WlI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### <a name="6.10-the-last-rites"></a>6.10 The Last rites
+This video explains the two parts of the Last Rites, which supports those who are close to dying.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OoFu8BbxioU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
