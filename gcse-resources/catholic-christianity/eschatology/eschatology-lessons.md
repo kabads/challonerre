@@ -23,7 +23,8 @@ In this section you will find resources to support your study of all things Esch
 - [6.8 Cosmic Reconciliation Part 2](#6.8-cosmic-reconciliation-part-2)
 - [6.9 Catholic teachings in the end of time](#6.9-catholic-teachings-in-the-end-of-time)
 - [6.10 The Last Rites](#6.10-the-last-rites)
-
+- [6.11 The Funeral Rites](#6.11-the-funeral-rites)
+-
 ### <a name = "6.1-the-pascal-candal"></a> 6.1 The Paschal candle
 
 This video explores the symbolism and importance of the Paschal Candle for Catholic Christians.
@@ -109,3 +110,7 @@ Find out what Vatican II document Lumen Gentium has to teach about preparing for
 This video explains the two parts of the Last Rites, which supports those who are close to dying.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OoFu8BbxioU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### <a name="6.11-the-funeral-rites"></a>6.11 The Funeral Rites
+This lesson examines what happens during Catholic Funeral Rites, and why.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lBDf5cwvoZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
