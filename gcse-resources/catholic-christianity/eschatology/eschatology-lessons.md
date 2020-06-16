@@ -24,7 +24,7 @@ In this section you will find resources to support your study of all things Esch
 - [6.9 Catholic teachings in the end of time](#6.9-catholic-teachings-in-the-end-of-time)
 - [6.10 The Last Rites](#6.10-the-last-rites)
 - [6.11 The Funeral Rites](#6.11-the-funeral-rites)
--
+
 ### <a name = "6.1-the-pascal-candal"></a> 6.1 The Paschal candle
 
 This video explores the symbolism and importance of the Paschal Candle for Catholic Christians.
