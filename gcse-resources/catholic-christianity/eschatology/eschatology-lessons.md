@@ -24,8 +24,8 @@ In this section you will find resources to support your study of all things Esch
 - [6.9 Catholic teachings in the end of time](#6.9-catholic-teachings-in-the-end-of-time)
 - [6.10 The Last Rites](#6.10-the-last-rites)
 - [6.11 The Funeral Rites](#6.11-the-funeral-rites)
-- [6.12 The Care of the Dying and Euthanasia Part 1](6.12-the-care-of-the-dying-pt1)
-- [6.12 The Care of the Dying and Euthanasia Part 2](6.12-the-care-of-the-dying-pt2)
+- [6.12 The Care of the Dying and Euthanasia Part 1](#6.12-the-care-of-the-dying-pt1)
+- [6.12 The Care of the Dying and Euthanasia Part 2](#6.12-the-care-of-the-dying-pt2)
 
 
 ### <a name = "6.1-the-pascal-candal"></a> 6.1 The Paschal candle
