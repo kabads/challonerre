@@ -84,6 +84,11 @@ To understand the difference between Particular and Final Judgement
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7FMgVbcLagM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 
+This lesson helps you to distinguish the two types of judgement.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4VmN9gcnC_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
 ### <a name="parable"></a>6.7 Parable of the Rich Man and Lazarus
 
 Watch this lesson to find out what the Parable of the Rich Man and Lazarus (Luke 16: 19-31) tells Christians about the nature of heaven and hell.
