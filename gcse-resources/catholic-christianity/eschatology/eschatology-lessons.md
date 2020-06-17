@@ -56,7 +56,7 @@ This video explores Biblical teachings about the End of Time, aka the Last Judge
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0PfvcfkGGIY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<br/><br/><br/><br/><a name="6.5-the-four-last-things"></a><br/><br/>>
+<br/><br/><br/><br/><a name="6.5-the-four-last-things"></a><br/><br/>
 ### 6.5 The Four Last Things
 
 TheoMatters is back! This time, we're talking about the End of the World and what comes after.
@@ -66,7 +66,7 @@ TheoMatters is back! This time, we're talking about the End of the World and wha
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CASguoEVIjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<br/><br/><br/></br><a name="purgatory-and-judgement-part-1"></a><br/><br/> 
+<br/><br/><br/><br/><a name="purgatory-and-judgement-part-1"></a><br/><br/> 
 ### 6.6 Purgatory and Judgement part 1
 
 Part 1 This video lesson outlines Catholic beliefs and teachings about Purgatory and Judgement.
