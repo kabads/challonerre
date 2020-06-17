@@ -28,7 +28,7 @@ In this section you will find resources to support your study of all things Esch
 - [6.12 The Care of the Dying and Euthanasia Part 2](#6.12-the-care-of-the-dying-pt2)
 
 <br/><br/><br/><br/> <a name = "6.1-the-pascal-candal"></a><br/><br/>
-###6.1 The Paschal candle
+### 6.1 The Paschal candle
 
 This video explores the symbolism and importance of the Paschal Candle for Catholic Christians.
 
