@@ -34,17 +34,21 @@ This video explores the symbolism and importance of the Paschal Candle for Catho
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2QdnCM3IZlE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+</br>
+
 ### <a name="6.2-michaelangelos-the-last-judgement-painting"></a>6.2 Michelangelo's The Last Judgement Painting
 
 This lesson examines the beliefs expressed in Michelangelo's painting, The Last Judgement and asks whether it is a good expression of Catholic Christian beliefs about End Times/ The Last Day.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wRnkg_R2abQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</br>
 
 ### <a name="6.3-memorials-for-the-dead"></a>6.3 memorials for the Dead
 
 This video lesson explores Catholic beliefs expressed through burial and cremation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q6LVlPXymL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</br>
 
 #### <a name="6.4-eschatology-and-life-after-death"></a> 6.4 Eschatology and Life after Death
 
