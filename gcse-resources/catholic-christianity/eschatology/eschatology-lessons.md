@@ -136,7 +136,8 @@ This video explains the two parts of the Last Rites, which supports those who ar
 This lesson examines what happens during Catholic Funeral Rites, and why.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lBDf5cwvoZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a name="6.12-the-care-of-the-dying-pt1"></a>
-<br/> 
+<br/>
+<br/>
 ### </a>6.12 The Care of The Dying and Euthanasia Pt1
 This lesson looks how Catholics care for the dying in the light of the Sanctity of life and begins to examine attitudes towards euthanasia.
 
