@@ -13,6 +13,8 @@ permalink: "/gcse-resources/judaism"
 - [10.3 Worship In Orthodox and Reform Synangogues](#10.3-worship-in-orthodox-and-reform-synagogues)
 - [10.4 Daily Service And Prayers](#10.4-daily-service-and-prayers)
 - [10.5 and 10.6 Shabbat](#10.5-shabbat)
+- [10.7 Worship in the home - the written and oral law](#10.7-worship-in-the-home)
+- [10.8 Birth Ceremonies](#10.8-birth-ceremonies)
 
 <br/><br/><br/><br/> <a name = "10.1-inside-the-synagogue"></a><br/><br/>
 ### 10.1 & 10.2 Inside the Synangogue And Why It is Important
@@ -43,3 +45,20 @@ This lesson explores daily worship in the Jewish home and in the Synagogue.
 
 This lesson explains how and why Jews celebrate Shabbat each week. In the home and in the Synagogue.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tRkp3Mgvd7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<br/><br/><br/><br/> <a name = "10.7-worship-in-the-home"></a><br/><br/>
+### 10.7 Worship in the home – the written and the oral law
+
+This lesson explains Jewish prayer in the home and the use of special clothing and objects.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p9_GeTiK7Nw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<br/><br/><br/><br/> <a name = "10.7-birth-ceremonices"></a><br/><br/>
+### 10.8 Birth Ceremonies
+
+This lesson teaches you all about the Brit Milah and other ceremonies associated with new-born Jewish children.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J6Lp9tAFph0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
