@@ -22,7 +22,7 @@ permalink: "/gcse-resources/judaism"
 - [10.14 Pesach](#10.14-pesach)
 
 <br/><br/><br/><br/> <a name = "10.1-inside-the-synagogue"></a><br/><br/>
-### 10.1 & 10.2 Inside the Synangogue And Why It is Important
+### 10.1 & 10.2 Inside the Synagogue And Why It is Important
 
 This video introduces The Synagogue and prompts your research into their features.
 
