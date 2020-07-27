@@ -16,6 +16,7 @@ permalink: "/gcse-resources/judaism"
 - [10.7 Worship in the home - the written and oral law](#10.7-worship-in-the-home)
 - [10.8 Birth Ceremonies](#10.8-birth-ceremonies)
 - [10.9 Bar and Bat Mitzvah](#10.9-bar-and-bat-mitzvah)
+- [10.10 Marriage in Judaism](#10.10-marriage-in-judaism)
 - [10.11 Mourning for the dead](#10.11-mourning-for-the-dead)
 - [10.12 Dietary Laws](#10.12-dietary-laws)
 - [10.13 Rosh Hashanah and Yom Kippur](#10.13-rosh-hashanah)
@@ -72,6 +73,19 @@ This lesson teaches you all about the Brit Milah and other ceremonies associated
 ### 10.9 Bar and Bat Mitzvah
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iC7RAahYcac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<br/><br/><br/><br/> <a name = "10.10-marriage-in-judaism"></a><br/><br/>
+
+### 10.10 Marriage In Judaism
+
+
+This lesson explores the beliefs and practices involved in Jewish Marriage. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NUo1QIsh0cA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<br/><br/><br/><br/> <a name = "10.11-mourning-for-the-dead"></a><br/><br/>
 
 <br/><br/><br/><br/> <a name = "10.11-mourning-for-the-dead"></a><br/><br/>
 
